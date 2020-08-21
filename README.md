@@ -1,0 +1,1 @@
+# ruby_03-03_stock-picker
